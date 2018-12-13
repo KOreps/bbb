@@ -1,0 +1,1 @@
+default_app_config = "bigbluebutton_webinar.apps.BigbluebuttonConfig"
